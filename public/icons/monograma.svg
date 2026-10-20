@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <!-- Monograma Adolever: "A" caligráfica de alto contraste en lila sobre blanco -->
+  <rect width="512" height="512" fill="#ffffff"/>
+  <g fill="none" stroke="#8B6CC9" stroke-linecap="round" stroke-linejoin="round">
+    <!-- trazo fino izquierdo con remate curvo -->
+    <path d="M262 112 L160 392 C150 420 120 428 104 410" stroke-width="7"/>
+    <!-- travesaño fino con leve curva -->
+    <path d="M196 296 C240 288 290 288 336 294" stroke-width="7"/>
+    <!-- remates inferiores -->
+    <path d="M300 404 L402 404" stroke-width="8"/>
+    <!-- floritura superior -->
+    <path d="M266 100 C248 78 214 76 190 96" stroke-width="6"/>
+  </g>
+  <!-- asta gruesa derecha -->
+  <path d="M256 104 L284 96 L384 400 L334 404 Z" fill="#8B6CC9"/>
+</svg>
